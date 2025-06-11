@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HasithaSaubhagya/static/css/main.5fb5c791.css",
+    "main.js": "/HasithaSaubhagya/static/js/main.96d02318.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/HasithaSaubhagya/static/js/453.f4fbaa6d.chunk.js",
+    "index.html": "/HasithaSaubhagya/index.html",
+    "main.5fb5c791.css.map": "/HasithaSaubhagya/static/css/main.5fb5c791.css.map",
+    "main.96d02318.js.map": "/HasithaSaubhagya/static/js/main.96d02318.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/HasithaSaubhagya/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fb5c791.css",
+    "static/js/main.96d02318.js"
+  ]
+}
